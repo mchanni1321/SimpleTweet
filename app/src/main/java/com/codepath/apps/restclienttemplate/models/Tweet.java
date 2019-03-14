@@ -18,4 +18,6 @@ public class Tweet {
         tweet.user = User.fromJson(jsonObject.getJSONObject("user"));
         return tweet;
     }
+
+
 }
