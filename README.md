@@ -43,13 +43,13 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mchanni1321/SimpleTweet/blob/master/walkthrough2.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One of the challenges that I faced while building this application involved adjusting to the Parceler library and implementing its features in order to retrieve the user's newly composed tweets and display them onto the timeline.
+One of the challenges that I faced while building this application involved displaying the user's newly composed tweets onto the timeline without having to refresh the entire page.
 
 ## Open-source libraries used
 
